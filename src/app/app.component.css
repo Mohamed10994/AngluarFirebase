@@ -1,0 +1,11 @@
+.nav_bar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.Srem 1rem;
+    background: rgb(97, 89, 89);
+    color: white;
+    font-size: 22px;
+}
